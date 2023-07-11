@@ -1,0 +1,16 @@
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\SafeticaTask.exe
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\SafeticaTask.deps.json
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\SafeticaTask.runtimeconfig.json
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\SafeticaTask.runtimeconfig.dev.json
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\SafeticaTask.dll
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\ref\SafeticaTask.dll
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\SafeticaTask.pdb
+C:\Dev\SafeticaTask\SafeticaTask\obj\Release\net5.0\SafeticaTask.csprojAssemblyReference.cache
+C:\Dev\SafeticaTask\SafeticaTask\obj\Release\net5.0\SafeticaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\SafeticaTask\SafeticaTask\obj\Release\net5.0\SafeticaTask.AssemblyInfoInputs.cache
+C:\Dev\SafeticaTask\SafeticaTask\obj\Release\net5.0\SafeticaTask.AssemblyInfo.cs
+C:\Dev\SafeticaTask\SafeticaTask\obj\Release\net5.0\SafeticaTask.csproj.CoreCompileInputs.cache
+C:\Dev\SafeticaTask\SafeticaTask\obj\Release\net5.0\SafeticaTask.dll
+C:\Dev\SafeticaTask\SafeticaTask\obj\Release\net5.0\ref\SafeticaTask.dll
+C:\Dev\SafeticaTask\SafeticaTask\obj\Release\net5.0\SafeticaTask.pdb
+C:\Dev\SafeticaTask\SafeticaTask\obj\Release\net5.0\SafeticaTask.genruntimeconfig.cache

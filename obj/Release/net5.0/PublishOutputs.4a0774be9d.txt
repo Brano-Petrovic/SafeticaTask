@@ -1,0 +1,5 @@
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\publish\SafeticaTask.exe
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\publish\SafeticaTask.dll
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\publish\SafeticaTask.deps.json
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\publish\SafeticaTask.runtimeconfig.json
+C:\Dev\SafeticaTask\SafeticaTask\bin\Release\net5.0\publish\SafeticaTask.pdb

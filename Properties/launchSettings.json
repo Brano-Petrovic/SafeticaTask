@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SafeticaTask": {
+      "commandName": "Project",
+      "commandLineArgs": "remove test.txt property2"
+    }
+  }
+}

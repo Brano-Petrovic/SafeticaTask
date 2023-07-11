@@ -1,0 +1,2 @@
+# SafeticaTask
+ Testovaci ukol - Footer
