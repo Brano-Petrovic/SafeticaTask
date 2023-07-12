@@ -85,7 +85,7 @@ namespace SafeticaTask.Services
 
         public bool ProcessCommand(string footer, CommandModel paramsModel, out string newFooter)
         {
-            var existProperty = Regex.IsMatch(footer, paramsModel.PropertyName);
+            var existProperty = Regex.IsMatch(footer, $"(?:\\n|$){paramsModel.PropertyName}=");
             newFooter = null;
             switch (paramsModel.Operator)
             {
